@@ -1,2 +1,0 @@
-/home/firefox66/Workspaces/C.C++.Tutor/firstCode/CMakeFiles/rebuild_cache.dir
-/home/firefox66/Workspaces/C.C++.Tutor/firstCode/CMakeFiles/edit_cache.dir
