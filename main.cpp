@@ -5,6 +5,6 @@ using namespace std;
 
 int main(int argc, char const *argv[])
 {
-   cout << "Hello, Duy...";
+   cout << "Hello, Duy..." << "\n";
    return 0;
 }
