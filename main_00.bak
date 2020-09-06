@@ -1,0 +1,25 @@
+
+#include <iostream>
+#include "../lib/catch.hpp"
+#include "../lib/submain.hpp"
+
+using namespace std;
+
+class clsStudent {
+	public:
+	void funcDisplay(){
+	cout  << "Display func... \n"
+			<< endl;
+   }
+
+};
+
+int main(){
+
+	clsStudent myStudent;
+	myStudent.funcDisplay();
+
+	//submain();
+
+	return 0;
+}

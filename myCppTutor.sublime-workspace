@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"func",
+				"funcWrite\tabc"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"fun",
+				"funcDisplay\tabc"
+			],
+			[
+				"nu",
+				"number2\tabc"
+			],
+			[
+				"numb",
+				"number1\tabc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.cpp",
+			"settings":
+			{
+				"buffer_size": 581,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "myCppTutor (Linux)",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Cpp.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/Cpp.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"myCppTutor (Linux)",
+					""
+				],
+				[
+					"myCppTutor (Linux)",
+					"clean"
+				],
+				[
+					"myCppTutor (Linux)",
+					"rebuild_cache"
+				],
+				[
+					"myCppTutor (Linux)",
+					"hello"
+				]
+			],
+			[
+				"myCppTutor (Linux)",
+				"hello"
+			]
+		],
+		[
+			[
+				[
+					"myCppTutor (Linux)",
+					""
+				],
+				[
+					"myCppTutor (Linux)",
+					"clean"
+				],
+				[
+					"myCppTutor (Linux)",
+					"rebuild_cache"
+				],
+				[
+					"myCppTutor (Linux)",
+					"main"
+				]
+			],
+			[
+				"myCppTutor (Linux)",
+				"main"
+			]
+		]
+	],
+	"build_varint": "main",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cma",
+				"CMakeBuilder: New Project"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 375.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/build",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/build/src",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/src"
+	],
+	"file_history":
+	[
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/src/main_00.bak",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/src/main_00.cpp",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/src/submain.cpp",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/lib/submain.hpp",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/src/CMakeLists.txt",
+		"/home/firefox66/.config/sublime-text-3/Packages/ClangAutoComplete/ClangAutoComplete.sublime-settings",
+		"/home/firefox66/.config/sublime-text-3/Packages/User/Cpp.sublime-build",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/myCppTutor/build/CMakeCache.txt",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/src/main.cpp",
+		"/home/firefox66/license_key_harrison_ava_vf.txt",
+		"/mnt/DATA/CoKhi/SystemModeler.12.Linux/readme",
+		"/home/firefox66/Downloads/duynguyen1986@yahoo.com Firefox Recovery Codes.txt",
+		"/home/firefox66/Desktop/id_rsa.pub",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/src/CMakeLists.txt",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/CMakeCache.txt",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/CMakeFiles/Makefile2",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/Makefile",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/main.cpp",
+		"/home/firefox66/Workspaces/C.C++.Tutor/Makefile",
+		"/home/firefox66/Workspaces/C.C++.Tutor/firstCode/build/Makefile",
+		"/home/firefox66/Workspaces/C.C++.Tutor/CMakeLists.txt",
+		"/home/firefox66/Workspaces/C.C++.Tutor/src/main.cpp",
+		"/home/firefox66/Workspaces/C.C++.Tutor/include/Vector.hpp",
+		"/home/firefox66/Workspaces/C.C++.Tutor/main.cpp",
+		"/home/firefox66/Desktop/FrightenedFabulousCoordinate.firefox66.repl.html",
+		"/home/firefox66/Desktop/BewcO4si.html",
+		"/home/firefox66/Downloads/Compressed/GUIsliceBuilder/projects/projects.c",
+		"/home/firefox66/Downloads/Compressed/bin5_x64_linux/qt.conf",
+		"/home/firefox66/Downloads/Compressed/ugfx_2.9/readme.txt",
+		"/home/firefox66/Downloads/Compressed/Harrison_AVA/README.txt",
+		"/opt/words-picker/conf",
+		"/home/firefox66/Downloads/Compressed/Harrison_AVA/install.sh",
+		"/media/firefox66/Voxengo Voxformer 2.16 AU_AAX/Plug-In Install Help.txt",
+		"/home/firefox66/.local/share/applications/fritzing.desktop",
+		"/mnt/DATA/CoKhi/Siemens.NX.12.0.2.Linux64-SSQ/_SolidSQUAD_/readme_linux.txt",
+		"/mnt/DATA/CoKhi/Siemens.NX.12.0.2.Linux64-SSQ/Siemens.NX.12.0.2.Linux64/README",
+		"/mnt/DATA/CoKhi/Siemens.NX.12.0.2.Linux64-SSQ/CaiDat",
+		"/home/firefox66/Downloads/Photos/How to use the Photos folder.txt",
+		"/home/firefox66/Downloads/Compressed/Release/WarpBuffer.exe.config",
+		"/tmp/.fr-Y73I5n/Installation Instructions.txt",
+		"/home/firefox66/.config/okularrc",
+		"/DATAos/pmNgheNhin/AfterShot/AfterShot_Readme.md",
+		"/home/firefox66/.config/sublime-text-3/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/firefox66/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/firefox66/Workspaces/pythonTutor/main.py",
+		"/home/firefox66/Workspaces/pythonTutor/tutor.py",
+		"/DATAos/bakos/readme",
+		"/home/firefox66/Documents/CloundFlare/readme",
+		"/home/firefox66/.config/sublime-text-3/Packages/Sourcetrail/Sourcetrail.sublime-settings",
+		"/DATA/CoKhi/SystemModeler.12.Linux/readme",
+		"/DATA/CoKhi/Siemens.NX.12.0.2.Linux64-SSQ/CaiDat",
+		"/DATA/CoKhi/Siemens.NX.12.0.2.Linux64-SSQ/_SolidSQUAD_/readme_linux.txt",
+		"/DATA/CoKhi/Siemens.NX.12.0.2.Linux64-SSQ/nx-12.0.2.README.txt",
+		"/DATA/CoKhi/BricsCAD.19.2.15/Crack/bricsys.lic",
+		"/DATA/CoKhi/BricsCAD.19.2.15/Crack/Readme.txt",
+		"/DATA/CoKhi/BricsCAD.19.2.15/Crack/readme",
+		"/DATA/CoKhi/BricsCAD.19.2.15/startbcad",
+		"/home/firefox66/Desktop/sysreport-Thứ năm-20-Tháng 8-2020-10:06:38.html",
+		"/home/firefox66/Documents/amdgpu",
+		"/home/firefox66/Desktop/SetupList",
+		"/DATAos/bakos/exclude",
+		"/media/firefox66/916b6c2e-dbdd-47de-a3e1-43b51ace17da/SetupList",
+		"/home/firefox66/ExpanDrive/Dropbox/temp/IP Camera Super Client v1.04.txt",
+		"/home/firefox66/ExpanDrive/Dropbox/temp/lamviec.txt",
+		"/home/firefox66/Downloads/Compressed/Chicago95-1.0.1/debian/chicago95-theme-gtk.install",
+		"/home/firefox66/Desktop/tmp/Guide",
+		"/media/firefox66/OALD8/linux/setup.sh",
+		"/home/firefox66/Desktop/txt",
+		"/home/firefox66/ExpanDrive/Dropbox/linux/config_linux",
+		"/home/firefox66/Audio/2020-08-18-19:21:44.wav",
+		"/DATA/osbak/exclude",
+		"/home/firefox66/.config/Fritzing/Fritzing.conf",
+		"/DATA/CoKhi/Simplify3D 4.0.1 Linux x64/Crack/start3d",
+		"/home/firefox66/Desktop/tmp/GuitarPro6/2-desktop",
+		"/home/firefox66/Desktop/tmp/GuitarPro6/launcher",
+		"/usr/sbin/gparted",
+		"/home/firefox66/Downloads/Compressed/Briss-2.0/bin/Briss-2.0",
+		"/home/firefox66/ExpanDrive/OneDrive365/pmAmNhac/Audio.Damage.AD046.Quanta.v1.1.10.WiN.OSX.LiNUX.RETAiL-SYNTHiC4TE/SYNTHiC4TE.nfo",
+		"/home/firefox66/Downloads/amdgpu-pro-20.30-1109583-ubuntu-20.04/amdgpu-pro-install",
+		"/home/firefox66/Downloads/amdgpu-pro-17.40-492261/amdgpu-pro-install",
+		"/home/firefox66/Downloads/amdgpu-pro-16.40-348864/amdgpu-pro-install",
+		"/home/firefox66/Desktop/tmp/main/main.ino",
+		"/media/firefox66/bakData/data/driver/brotherInstall/linux-brprinter-installer-2.1.1-1",
+		"/home/firefox66/Desktop/tmp/_SolidSQUAD_/Localization/INSTALL_SIEMENS_XFIX",
+		"/media/firefox66/DATA/CoKhi/Simplify3D 4.0.1 Linux x64/Crack/start3d",
+		"/media/firefox66/DATA/CoKhi/BricsCAD.19.2.15/Crack/startbricscad",
+		"/media/firefox66/DATA/CoKhi/BricsCAD.19.2.15/Crack/bricscad"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hello"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"rainbowth.lispy": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "myCppTutor (Linux)",
+	"project": "myCppTutor.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
